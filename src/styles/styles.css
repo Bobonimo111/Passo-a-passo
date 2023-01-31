@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+    background: linear-gradient(45deg, rgba(16, 85, 235, 0.705) 10%, rgba(15,185,247,0.6573004201680672) 50%, rgba(16, 85, 235, 0.774) 89%) no-repeat center center fixed;
+}
+h1{
+    margin: 25px ;
+    color: white;
+}
+
+
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+.container{
+    background-color: rgba(255, 255, 255, 0.459);
+    padding: 20px 0;
+    border-radius: 15px;
+    min-width: 377px;
+    max-width: 500px;
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px 0;
+    box-shadow: 0 0 10px 1px black;
+}
+#resultado{
+    text-align: center;
+    font-weight: 100;
+    padding: 0 25px;
+}
+
+
