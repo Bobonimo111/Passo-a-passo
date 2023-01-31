@@ -1,3 +1,6 @@
+## Passo a passo 
+Projeto feito a partir das atividades do curso de Js do Curso em video
+
 ## Exemplo
 
 ![](src/exemplo/exemplo.PNG)
